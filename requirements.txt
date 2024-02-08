@@ -1,0 +1,7 @@
+python==3.10.6 or lower
+tensorflow==2.10 or lower
+keras==2.10
+fastapi==latest
+pydantic==latest
+CUDA==11.2
+CUdnn==8.1
